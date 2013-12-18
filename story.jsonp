@@ -1,0 +1,101 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Interactive Media 2",
+        "type":"default",
+		"text":"2013년 2학기 인터렉티브 미디어",
+		"startDate":"2013,8,26",
+        "date": [
+            {
+                "startDate":"2013,8,28",
+                "headline":"첫 수업",
+                "text":"<p>한 학기동안의 계획<br/>이 때는 뭐든 할 수 있을 것같았다...</p>",
+                "asset":
+                {
+                    "media":"./media/start.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,4",
+                "endDate":"2013,9,4",
+                "headline":"인터렉티브 해적단",
+                "text":"<p>새로운 팀의 결성.<br/>불안하지만 기대된다.</p>",
+                "asset":
+                {
+                    "media":"./media/team.png",
+                    "credit":"",
+                    "caption":"매주 실시한 팀 회의"
+                }
+            },
+            {
+                "startDate":"2013,9,19",
+                "endDate":"2013,9,19",
+                "headline":"11일간의 추석연휴",
+                "text":"<p>방학인줄 알았다.<br/>결국 아무 것도 안하고<br/> 2주가 지나갔다.</p>",
+                "asset":
+                {
+                    "media":"./media/travel.jpg",
+                    "credit":"",
+                    "caption":"부산여행"
+                }
+            },            
+            {
+                "startDate":"2013,10,2",
+                "headline":"Burndown Chart",
+                "text":"<p>5주간의 계획<br/>번다운 차트!<br/>는 실패..</p>",
+                "asset":
+                {
+                    "media":"./media/burndown.png",
+                    "credit":"",
+                    "caption":"BurnDown Chart"
+                }
+            },
+            {
+                "startDate":"2013,10,9",
+                "headline":"Roguelike<br/>Game Making",
+                "text":"<p>중간 파이널 결과!<br/>갑작스럽게 제출해라는 메시지에 현구가 준 이미지로<br/>스프라이트 애니메이션을 넣었더니<br/>전보다 훨씬 나아졌다.<p/><p>http://nicepark007.github.io/v9</p>",
+                "asset":
+                {
+                    "media":"./media/midfinal.png",
+                    "credit":"",
+                    "caption":"Roguelike Game"
+                }
+            },
+            {
+                "startDate":"2013,11,19",
+                "headline":"조형전",
+                "text":"<p>또다시 수업의 공백기<br/>http://www.imkookmin.com</p>",
+                "asset":
+                {
+                    "media":"./media/kmu.png",
+                    "credit":"",
+                    "caption":"조형전"
+                }
+            },                     
+            {
+                "startDate":"2013,12,11",
+                "headline":"Final",
+                "text":"<p>행성 생성 게임<br/>연습만 하다 끝난 느낌이지만<br/>계속 이어지면 뭐라도 나오지 않을까?</p><p>http://nicepark007.github.io/v1</p>",
+                "asset":
+                {
+                    "media":"./media/final.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,18",
+                "headline":"드디어 종강!",
+                "text":"아쉬움이 많이 남는 학기...<br/>",
+                "asset":
+                {
+                    "media":"./media/space.png",
+                    "credit":"",
+                    "caption":""
+                }
+            }            
+        ]
+    }
+}
